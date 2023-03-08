@@ -1,0 +1,159 @@
+ID,Entity-Name,Size,# Tiles,Zone,Score,Score/Tile,Weight,# Variations,Filename,Residential Boost,Commercial Boost,Industrial Boost,Hood Boost
+1,Romantic Cabin,1x1,1,residential,0.40,0.40,100,1,house-xsmall-1.png,,,,
+2,Sauna Cabin,1x1,1,residential,0.40,0.40,100,1,house-xsmall-2.png,,,,
+3,Retreat Cabin,1x1,1,residential,0.40,0.40,100,1,house-xsmall-3.png,,,,
+4,Simple Cabin,1x1,1,residential,0.40,0.40,100,1,house-xsmall-4.png,,,,
+5,Comfy Home,1x1,1,residential,0.80,0.80,90,1,house-small-1.png,,,,
+6,Late Night Home,1x1,1,residential,0.80,0.80,90,1,house-small-2.png,,,,
+7,Modernist Home,1x1,1,residential,0.80,0.80,90,1,house-small-3.png,,,,
+8,Surreal Home,1x1,1,residential,0.80,0.80,90,1,house-small-4.png,,,,
+9,Large Bungalow,1x1,1,residential,1.20,1.20,80,1,house-mid-1.png,,,,
+10,Cottage Bungalow,1x1,1,residential,1.20,1.20,80,1,house-mid-2.png,,,,
+11,Modern Bungalow,1x1,1,residential,1.20,1.20,80,1,house-mid-3.png,,,,
+12,Lookout Bungalow,1x1,1,residential,1.20,1.20,80,1,house-mid-4.png,,,,
+13,Glasshouse Home,2x1,2,residential,1.60,0.80,70,1,house-large-1.png,,,,
+14,Pond Villa,2x1,2,residential,1.80,0.90,68,1,house-large-2.png,,,,
+15,Viewpoint Villa,2x1,2,residential,2.00,1.00,66,1,house-large-3.png,,,,
+16,Double-Winged Villa,2x1,2,residential,2.20,1.10,64,1,house-large-4.png,,,,
+17,Garden Villa,2x1,2,residential,2.40,1.20,62,1,house-xlarge-1.png,,,,
+18,Mountain Cabin Villa,2x1,2,residential,2.60,1.30,60,1,house-xlarge-2.png,,,,
+19,Modern Villa,2x1,2,residential,2.80,1.40,58,1,house-xlarge-3.png,,,,
+20,Futuristic Villa,2x1,2,residential,3.00,1.50,56,1,house-xlarge-4.png,,,,
+21,Barn Villa,2x1,2,residential,3.20,1.60,54,1,house-ularge-1.png,,,,
+22,Palm Villa,2x1,2,residential,3.40,1.70,52,1,house-ularge-2.png,,,,
+23,Mega Cottage,2x1,2,residential,3.60,1.80,50,1,house-ularge-3.png,,,,
+24,V-Pillar Villa,2x1,2,residential,3.80,1.90,48,1,house-ularge-4.png,,,,
+25,Cylinder Mansion,2x2,4,residential,4.80,1.20,100,1,mansion-1.png,,,,Mansion
+26,Organic Mansion,2x2,4,residential,6.40,1.60,85,1,large-mansion-1.png,,,,Mansion
+27,Winter Mega-Mansion,2x2,4,residential,8.00,2.00,65,1,mega-mansion-1.png,,,,Mansion
+28,Radiant Towers Small,1x1,1,residential,2.00,2.00,40,1,building-floors-8-1.png,,,,
+29,Woodridge Center Small,1x1,1,residential,2.00,2.00,40,1,building-floors-8-2.png,,,,
+30,Hoodville Towers Small,1x1,1,residential,2.00,2.00,40,1,building-floors-8-3.png,,,,
+31,Radiant Towers Medium,1x1,1,residential,3.00,3.00,30,1,building-floors-12-1.png,,,,
+32,Woodridge Center Medium,1x1,1,residential,3.00,3.00,30,1,building-floors-12-2.png,,,,
+33,Hoodville Towers Medium,1x1,1,residential,3.00,3.00,30,1,building-floors-12-3.png,,,,
+34,Radiant Towers Tall,1x1,1,residential,4.00,4.00,20,1,building-floors-16-1.png,,,,
+35,Woodridge Center Tall,1x1,1,residential,4.00,4.00,20,1,building-floors-16-2.png,,,,
+36,Hoodville Towers Tall,1x1,1,residential,4.00,4.00,20,1,building-floors-16-3.png,,,,
+37,Coffee and News Kiosk,1x1,1,commercial,0.40,0.40,100,1,shop-xsmall-1.png,,,,
+38,Flora Flower Shop,1x1,1,commercial,0.44,0.44,96,1,shop-xsmall-2.png,,,,
+39,Bakery Shop,1x1,1,commercial,0.48,0.48,94,1,shop-xsmall-3.png,,,,
+40,Pharmacy,1x1,1,commercial,0.80,0.80,90,1,shop-small-1.png,,,,
+41,Petshop,1x1,1,commercial,0.84,0.84,86,1,shop-small-2.png,,,,
+42,Blender Guitars,1x1,1,commercial,0.88,0.88,84,1,shop-small-3.png,,,,
+43,Red Hot Chilli Burgerz,1x1,1,commercial,1.20,1.20,80,1,shop-mid-1.png,,,,
+44,Bookstore,1x1,1,commercial,1.24,1.24,76,1,shop-mid-2.png,,,,
+45,Gemet,1x1,1,commercial,1.28,1.28,74,1,shop-mid-3.png,,,,
+46,Supermarket,2x1,2,commercial,1.60,0.80,70,1,shop-large-1.png,,,,
+47,Armeti,2x1,2,commercial,1.64,0.82,80,1,shop-large-2.png,,,,
+48,Sports Shop,2x1,2,commercial,1.68,0.84,78,1,shop-large-3.png,,,,
+49,Automobile Showroom,2x1,2,commercial,2.00,1.00,76,1,shop-xlarge-1.png,,,,
+50,Mety's,2x1,2,commercial,2.04,1.02,74,1,shop-xlarge-2.png,,,,
+51,Futurniture,2x1,2,commercial,2.08,1.04,72,1,shop-xlarge-3.png,,,,
+52,AquaMall,2x1,2,commercial,2.40,1.20,70,1,shop-ularge-1.png,,,,
+53,CartFull Shopping Mall,2x1,2,commercial,2.44,1.22,68,1,shop-ularge-2.png,,,,
+54,Steak'n'Buy Mall,2x1,2,commercial,2.48,1.24,66,1,shop-ularge-3.png,,,,
+55,Metro Trade Center Small,1x1,1,commercial,2.00,2.00,40,1,cbuilding-floors-8-1.png,,,,
+56,Metro Finance Tower Small,1x1,1,commercial,2.00,2.00,40,1,cbuilding-floors-8-2.png,,,,
+57,Metsurance Building Small,1x1,1,commercial,2.00,2.00,40,1,cbuilding-floors-8-3.png,,,,
+58,Metro Trade Center Medium,1x1,1,commercial,3.00,3.00,30,1,cbuilding-floors-12-1.png,,,,
+59,Metro Finance Tower Medium,1x1,1,commercial,3.00,3.00,30,1,cbuilding-floors-12-2.png,,,,
+60,Metsurance Building Medium,1x1,1,commercial,3.00,3.00,30,1,cbuilding-floors-12-3.png,,,,
+61,Metro Trade Center Tall,1x1,1,commercial,4.00,4.00,20,1,cbuilding-floors-16-1.png,,,,
+62,Metro Finance Tower Tall,1x1,1,commercial,4.00,4.00,20,1,cbuilding-floors-16-2.png,,,,
+63,Metsurance Building Tall,1x1,1,commercial,4.00,4.00,20,1,cbuilding-floors-16-3.png,,,,
+64,RDC Tower,1x1,1,commercial,4.00,4.00,1,1,cbuilding-floors-16-4.png,,,,
+65,Teip's Carwash,1x1,1,commercial,1.20,1.20,40,1,carwash-1.png,,,,
+66,Metcinema,1x2,2,commercial,2.40,1.20,100,1,cinema-1.png,,,,Cultural
+67,METPOT CASINO,2x1,2,commercial,4.80,2.40,95,1,casino-1.png,,,,Entertainment
+68,Metroverse Theatre,2x1,2,commercial,4.00,2.00,95,1,theatre-1.png,,,,Cultural
+69,Hotel Bonaville,1x3,3,commercial,3.60,1.20,40,1,hotel-1.png,,,,
+70,Metro Munch Restaurant,1x1,1,commercial,2.00,2.00,40,1,restaurant-1.png,,,,
+71,Metro Bar,1x1,1,commercial,1.60,1.60,40,1,bar-1.png,,,,
+72,Boomb0x Club,1x1,1,commercial,2.00,2.00,40,1,club-1.png,,,,
+73,Circ-o-verse,2x2,4,commercial,4.00,1.00,90,1,circus-1.png,,,,Entertainment
+74,Baseball Stadium,2x2,4,commercial,6.40,1.60,54,1,baseball-stadium-1.png,,,,Sports
+75,Football Stadium,2x3,6,commercial,9.60,1.60,64,1,football-stadium-1.png,,,,Sports
+76,Soccer Stadium,2x3,6,commercial,9.60,1.60,64,1,soccer-stadium-1.png,,,,Sports
+77,Beer Brewery,1x1,1,industrial,0.40,0.40,100,1,factory-xsmall-1.png,,,,
+78,Carpenter's Workshop,1x1,1,industrial,0.50,0.50,98,1,factory-xsmall-2.png,,,,
+79,SHOErepair,1x1,1,industrial,0.60,0.60,96,1,factory-xsmall-3.png,,,,
+80,Ceramics Workshop,1x1,1,industrial,0.70,0.70,94,1,factory-xsmall-4.png,,,,
+81,Chocolate Factory,1x1,1,industrial,0.80,0.80,90,1,factory-small-1.png,,,,
+82,Printing Plant,1x1,1,industrial,0.90,0.90,88,1,factory-small-2.png,,,,
+83,Bitwork Botanicals,1x1,1,industrial,1.00,1.00,86,1,factory-small-3.png,,,,
+84,MeDe Studios,1x1,1,industrial,1.10,1.10,84,1,factory-small-4.png,,,,
+85,Soil Love,1x1,1,industrial,1.20,1.20,82,1,factory-mid-1.png,,,,
+86,Leatherverse Tanning,1x1,1,industrial,1.30,1.30,80,1,factory-mid-2.png,,,,
+87,Toy Joy,1x1,1,industrial,1.40,1.40,78,1,factory-mid-3.png,,,,
+88,Meat-Roverse,1x1,1,industrial,1.50,1.50,76,1,factory-mid-4.png,,,,
+89,D. W. Mifflin Paper Co.,2x1,2,industrial,2.00,1.00,80,1,factory-large-1.png,,,,
+90,Ampz & Ohmz,2x1,2,industrial,2.10,1.05,78,1,factory-large-2.png,,,,
+91,Chill Pills,2x1,2,industrial,2.20,1.10,76,1,factory-large-3.png,,,,
+92,MOO!,2x1,2,industrial,2.30,1.15,74,1,factory-large-4.png,,,,
+93,Metromobile,2x1,2,industrial,2.40,1.20,72,1,factory-xlarge-1.png,,,,
+94,MeTexMill,2x1,2,industrial,2.50,1.25,70,1,factory-xlarge-2.png,,,,
+95,Hullfire Premium Boats,2x1,2,industrial,2.60,1.30,68,1,factory-ularge-1.png,,,,
+96,Stand Steel,2x1,2,industrial,2.70,1.35,66,1,factory-ularge-2.png,,,,
+97,Electronic Waste,1x1,1,industrial,0.80,0.80,100,1,warehouse-xsmall-1.png,,,,
+98,Hunting Equipment Wholesale,1x1,1,industrial,0.90,0.90,95,1,warehouse-xsmall-2.png,,,,
+99,Mining and Trading Machines,1x1,1,industrial,1.00,1.00,90,1,warehouse-small-1.png,,,,
+100,Prehistoric Fossils Warehouse,1x1,1,industrial,1.10,1.10,85,1,warehouse-small-2.png,,,,
+101,Aquarium Wholesaler,1x1,1,industrial,1.20,1.20,80,1,warehouse-mid-1.png,,,,
+102,Virtual Reality Experience,1x1,1,industrial,1.30,1.30,75,1,warehouse-mid-2.png,,,,
+103,Luxury Goods Warehouse,2x1,2,industrial,2.00,1.00,80,1,warehouse-large-1.png,,,,
+104,Portals ,2x1,2,industrial,2.20,1.10,80,1,warehouse-large-2.png,,,,
+105,Met-Bar Vault,2x1,2,industrial,2.40,1.20,75,1,warehouse-xlarge-2.png,,,,
+106,Awesome Looking Armor,2x1,2,industrial,2.60,1.30,72,1,warehouse-xlarge-1.png,,,,
+107,Biological Experiments,2x1,2,industrial,2.80,1.40,70,1,warehouse-ularge-1.png,,,,
+108,Spaceships Maker,2x1,2,industrial,3.00,1.50,68,1,warehouse-ularge-2.png,,,,
+109,MetroMaker Towers Small,1x1,1,industrial,2.40,2.40,40,1,ibuilding-floors-8-1.png,,,,
+110,Industrial Center Small,1x1,1,industrial,2.40,2.40,40,1,ibuilding-floors-8-2.png,,,,
+111,Metro Industrial Small,1x1,1,industrial,2.40,2.40,40,1,ibuilding-floors-8-3.png,,,,
+112,MetroMaker Towers Medium,1x1,1,industrial,3.60,3.60,30,1,ibuilding-floors-12-1.png,,,,
+113,Industrial Center Medium,1x1,1,industrial,3.60,3.60,30,1,ibuilding-floors-12-2.png,,,,
+114,Metro Industrial Medium,1x1,1,industrial,3.60,3.60,30,1,ibuilding-floors-12-3.png,,,,
+115,MetroMaker Towers Tall,1x1,1,industrial,4.80,4.80,20,1,ibuilding-floors-16-1.png,,,,
+116,Industrial Center Tall,1x1,1,industrial,4.80,4.80,20,1,ibuilding-floors-16-2.png,,,,
+117,Metro Industrial Tall,1x1,1,industrial,4.80,4.80,20,1,ibuilding-floors-16-3.png,,,,
+118,Solar Farm,2x2,4,industrial,6.40,1.60,90,1,solar-power-plant-1.png,,,,Power
+119,Wind Farm,2x2,4,industrial,4.80,1.20,100,1,wind-power-plant-1.png,,,,Power
+120,Nuclear Power Plant,2x2,4,industrial,7.20,1.80,76,1,nuclear-power-plant-1.png,,,,Power
+121,Rocket Launch Site,2x2,4,industrial,8.40,2.10,60,1,rocket-launch-site-1.png,,,,Tech
+122,Crypto Mining Facility,2x2,4,industrial,7.20,1.80,88,1,crypto-mining-facility-1.png,,,,Tech
+123,Grain Silo,2x1,2,industrial,4.00,2.00,30,1,grain-silo-1.png,,,,
+124,UnbelieVALTable,2x1,2,industrial,6.40,3.20,70,1,electric-battery-1.png,,,,Tech
+125,Small Park,1x1,1,public,0.00,0.00,30,1,park-small-1.png,3%,3%,,
+126,Large Park,2x1,2,public,0.00,0.00,20,1,park-large-1.png,4%,4%,,
+127,Bus Stop,1x1,1,public,0.00,0.00,100,1,bus-stop-1.png,3%,3%,3%,Transport
+128,Subway Station,1x1,1,public,0.00,0.00,100,1,subway-station-1.png,4%,4%,4%,Transport
+129,Metaxi Station,2x1,2,public,0.00,0.00,100,1,taxi-station-1.png,4%,4%,4%,Transport
+130,Metro Bank,2x1,2,public,0.00,0.00,30,1,bank-1.png,4%,4%,4%,
+131,Hospital,2x1,2,public,0.00,0.00,80,1,hospital-1.png,5%,5%,5%,Safety
+132,Fire Station,2x1,2,public,0.00,0.00,85,1,fire-station-1.png,5%,5%,5%,Safety
+133,Police Station,1x2,2,public,0.00,0.00,90,1,police-station-1.png,5%,5%,5%,Safety
+134,School,2x1,2,public,0.00,0.00,100,1,school-1.png,4%,,,Education
+135,Library,2x1,2,public,0.00,0.00,10,1,library-1.png,6%,,,
+136,University,2x2,4,public,0.00,0.00,95,1,university-1.png,6%,6%,4%,Education
+137,ETHRASH,2x1,2,public,0.00,0.00,60,1,waste-dump-1.png,-3%,-3%,6%,Odds
+138,Town Hall,2x2,4,public,0.00,0.00,80,1,town-hall-1.png,6%,6%,6%,Education
+139,Wildlife Waystation,2x2,4,public,0.00,0.00,70,1,zoo-1.png,6%,5%,,Entertainment
+140,Metroverse Museum,2x2,4,public,0.00,0.00,70,1,museum-1.png,6%,5%,,Cultural
+141,Sewage Treatment,2x1,2,public,0.00,0.00,35,1,sewage-treatment-1.png,-3%,-3%,6%,Odds
+142,Cemetery,2x1,3,public,0.00,0.00,35,1,cemetery-1.png,6%,4%,4%,Odds
+143,Army Base,2x2,4,public,0.00,0.00,10,1,army-base-1.png,-3%,-3%,6%,
+144,street-h,1x1,1,pathway-h,0.00,0.00,0,14,street-h-n.png,,,,
+158,street-v,1x1,1,pathway-v,0.00,0.00,0,14,street-v-n.png,,,,
+172,rail-h,1x1,1,pathway-h,0.00,0.00,0,12,rail-h-n.png,,,,
+184,rail-v,1x1,1,pathway-v,0.00,0.00,0,18,rail-v-n.png,,,,
+202,river-h,1x1,1,pathway-h,0.00,0.00,0,5,river-h-n.png,,,,
+207,river-v,1x1,1,pathway-v,0.00,0.00,0,5,river-v-n.png,,,,
+212,street-x-street,1x1,1,pathway-x,0.00,0.00,0,1,street-x-street-1.png,,,,
+213,street-x-rail,1x1,1,pathway-x,0.00,0.00,0,1,street-x-rail-1.png,,,,
+214,street-x-river,1x1,1,pathway-x,0.00,0.00,0,1,street-x-river-1.png,,,,
+215,rail-x-street,1x1,1,pathway-x,0.00,0.00,0,1,rail-x-street-1.png,,,,
+216,rail-x-rail,1x1,1,pathway-x,0.00,0.00,0,1,rail-x-rail-1.png,,,,Rail
+217,rail-x-river,1x1,1,pathway-x,0.00,0.00,0,1,rail-x-river-1.png,,,,
+218,river-x-street,1x1,1,pathway-x,0.00,0.00,0,1,river-x-street-1.png,,,,
+219,river-x-rail,1x1,1,pathway-x,0.00,0.00,0,1,river-x-rail-1.png,,,,
+220,river-x-river,1x1,1,pathway-x,0.00,0.00,0,1,river-x-river-1.png,,,,River
