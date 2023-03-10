@@ -13,3 +13,9 @@ The metadata JSON for each block can be found here:
 `https://s3.us-east-2.amazonaws.com/data.metroverse.com/metadata/block/BLOCK_ID`
 
 Replace `BLOCK_ID` with the ID of any block to obtain its metdata JSON.
+
+The individual building entities can be accessed and downloaded here:
+
+`https://s3.us-east-2.amazonaws.com/assets.metroverse.com/COLLECTION/ENTITY_NAME.png`
+
+Replace `COLLECTION` with blackout/genesis/genesis-mini and `ENTITY_NAME` with the filename defined in the Buildings Information CSVs found in `/buildings-information` to obtain the individual building entity file. 
